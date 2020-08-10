@@ -1,0 +1,3 @@
+class HackerFeedBloc {
+  HackerFeedBloc();
+}
